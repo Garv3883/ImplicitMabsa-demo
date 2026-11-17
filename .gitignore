@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 saved_models/*.pt
 datasets/
+server.log
